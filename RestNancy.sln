@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestNancy.Server", "RestNancy.Server\RestNancy.Server.csproj", "{E7749DCE-609E-4653-AB2A-71F55DB37F8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestNancy.Console", "RestNancy.Console\RestNancy.Console.csproj", "{E47C6E98-69B2-4175-AABA-7E6B66AD1076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestNancy.Service", "RestNancy.Service\RestNancy.Service.csproj", "{D945BD1B-C1D0-4CDB-ADF2-F3490A8214E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7749DCE-609E-4653-AB2A-71F55DB37F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7749DCE-609E-4653-AB2A-71F55DB37F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7749DCE-609E-4653-AB2A-71F55DB37F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7749DCE-609E-4653-AB2A-71F55DB37F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47C6E98-69B2-4175-AABA-7E6B66AD1076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47C6E98-69B2-4175-AABA-7E6B66AD1076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47C6E98-69B2-4175-AABA-7E6B66AD1076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47C6E98-69B2-4175-AABA-7E6B66AD1076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D945BD1B-C1D0-4CDB-ADF2-F3490A8214E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D945BD1B-C1D0-4CDB-ADF2-F3490A8214E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D945BD1B-C1D0-4CDB-ADF2-F3490A8214E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D945BD1B-C1D0-4CDB-ADF2-F3490A8214E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
